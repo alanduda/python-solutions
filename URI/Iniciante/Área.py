@@ -1,1 +1,0 @@
-values = input().split(' ')
