@@ -10,3 +10,4 @@ if( number >= 0 and number <= 100):
         print('Intervalo (75,100]')
 else:
     print('Fora de intervalo')
+    
